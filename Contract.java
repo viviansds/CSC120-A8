@@ -1,3 +1,11 @@
+/*
+ * Contract class 
+ * Assignment 8: Promises, Promises...
+ * @author Vivian Wei
+ * @version 10 November 2022
+ */
+
+/*A interface class that contains following methods for other classes to implements.*/
 public interface Contract {
 
     void grab(String item);
